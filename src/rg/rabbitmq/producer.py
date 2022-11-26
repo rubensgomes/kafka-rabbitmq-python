@@ -4,6 +4,7 @@ Created on Nov 24, 2022
 @author: Rubens Gomes
 '''
 
+
 class Producer(object):
     '''
     A simple RabbitMQ producer.
@@ -17,4 +18,3 @@ class Producer(object):
 
         :param self: refers to any object instance of this type
         """
-
