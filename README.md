@@ -1,6 +1,6 @@
-# kafka_vs_rabbitmq
+# kafka-rabbitmq-python
 
-A playground project to compare Apache Kafka and RabitMQ.
+A Python playground project to compare Apache Kafka and RabitMQ.
 
 ATTENTION: THIS PROJECT IS UNDER DEVELOPMENT!!!
 
