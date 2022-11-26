@@ -1,0 +1,3 @@
+# requirements.txt python package requirements for the apps
+
+python-string-utils>=1.0.0

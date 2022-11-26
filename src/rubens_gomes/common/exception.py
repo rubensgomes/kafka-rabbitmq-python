@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """This module defines various exception types.
 
 @author: Rubens Gomes
