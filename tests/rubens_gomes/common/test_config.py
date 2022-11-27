@@ -3,7 +3,6 @@
 @author Rubens Gomes
 """
 
-from configparser import NoSectionError
 from unittest import TestCase
 
 from rubens_gomes.common.config import Config
