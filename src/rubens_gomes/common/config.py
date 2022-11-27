@@ -34,13 +34,15 @@ import sys
 from configparser import ConfigParser
 from rubens_gomes.common.exception import IllegalArgumentException
 
+INI_FILE = "kafka-rabbitmq.ini"
+
 
 class Config(object):
     """A class responsible for loading an application INI configuration file.
     """
 
-    def __init__(self, config_file: str ="application.ini"):
-        """Inits Config with name of application properties file.
+    def __init__(self, config_file: str = INI_FILE):
+        """Initializes an instance of Config with name of application INI file.
 
         Parameters:
         ----------
